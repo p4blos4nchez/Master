@@ -6,7 +6,7 @@
         "Titulo": "El salario medio anual en Cataluña se situó en 25.552,84 euros en el 2018",
         "Subtitulo": "",
         "Datos": {
-            "Metricas": [
+            "Metricas": 
                 {
                     "Id": 0,
                     "Nombre": "Salarios a nivel anual - Euros para total como sexo del asalariado, total como tipo de contrato y Cataluña como comunidad autónoma",
@@ -16,7 +16,7 @@
                     "Unidad": "Euros",
                     "Escala": "Unidades",
                     "EscalaFactorPotencia10": 0,
-                    "Datos": [
+                    "Datos": 
                         {
                             "Agno": 2008,
                             "Periodo": "Año",
@@ -113,9 +113,9 @@
                             "Estado": "Definitivo",
                             "Notas": ""
                         }
-                    ]
+                    
                 }
-            ]
+            
         }
     }
 }]
