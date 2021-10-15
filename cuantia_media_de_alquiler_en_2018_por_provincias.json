@@ -1,0 +1,313 @@
+﻿{
+    "Url": "www.epdata.es/cuantia-media-alquiler-2018-provincias/7b39e1b5-afb6-4c54-9402-fe03bd8ab761",
+    "Respuesta": {
+        "Id": "7b39e1b5-afb6-4c54-9402-fe03bd8ab761",
+        "Url": "www.epdata.es/cuantia-media-alquiler-2018-provincias/7b39e1b5-afb6-4c54-9402-fe03bd8ab761",
+        "Titulo": "Cuantía media de alquiler en 2018 por provincias",
+        "Subtitulo": "Información extraída de los depósitos de las fianzas en 2018",
+        "Datos": {
+            "Metricas": [
+                {
+                    "Id": 0,
+                    "Nombre": "Cuantía media arrendamiento",
+                    "SonDatosNumericos": true,
+                    "Fuente": "Ministerio de Fomento",
+                    "Clasificacion": null,
+                    "Unidad": "Euros",
+                    "Escala": "Unidades",
+                    "EscalaFactorPotencia10": 0,
+                    "Datos": [
+                        {
+                            "Agno": 2018,
+                            "Periodo": "Año",
+                            "Parametro": "A Coruña",
+                            "Valor": 426,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2018,
+                            "Periodo": "Año",
+                            "Parametro": "Alicante",
+                            "Valor": 525,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2018,
+                            "Periodo": "Año",
+                            "Parametro": "Almería",
+                            "Valor": 421,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2018,
+                            "Periodo": "Año",
+                            "Parametro": "Baleares",
+                            "Valor": 687,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2018,
+                            "Periodo": "Año",
+                            "Parametro": "Barcelona",
+                            "Valor": 769,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2018,
+                            "Periodo": "Año",
+                            "Parametro": "Bizkaia",
+                            "Valor": 652,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2018,
+                            "Periodo": "Año",
+                            "Parametro": "Burgos",
+                            "Valor": 461,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2018,
+                            "Periodo": "Año",
+                            "Parametro": "Cádiz",
+                            "Valor": 479,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2018,
+                            "Periodo": "Año",
+                            "Parametro": "Castellón",
+                            "Valor": 447,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2018,
+                            "Periodo": "Año",
+                            "Parametro": "Ceuta",
+                            "Valor": 629,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2018,
+                            "Periodo": "Año",
+                            "Parametro": "Córdoba",
+                            "Valor": 452,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2018,
+                            "Periodo": "Año",
+                            "Parametro": "Gipuzkoa",
+                            "Valor": 730,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2018,
+                            "Periodo": "Año",
+                            "Parametro": "Girona",
+                            "Valor": 514,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2018,
+                            "Periodo": "Año",
+                            "Parametro": "Granada",
+                            "Valor": 459,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2018,
+                            "Periodo": "Año",
+                            "Parametro": "Huelva",
+                            "Valor": 401,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2018,
+                            "Periodo": "Año",
+                            "Parametro": "Huesca",
+                            "Valor": 399,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2018,
+                            "Periodo": "Año",
+                            "Parametro": "Jaén",
+                            "Valor": 385,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2018,
+                            "Periodo": "Año",
+                            "Parametro": "León",
+                            "Valor": 398,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2018,
+                            "Periodo": "Año",
+                            "Parametro": "Lleida",
+                            "Valor": 384,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2018,
+                            "Periodo": "Año",
+                            "Parametro": "Lugo",
+                            "Valor": 336,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2018,
+                            "Periodo": "Año",
+                            "Parametro": "Madrid",
+                            "Valor": 819,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2018,
+                            "Periodo": "Año",
+                            "Parametro": "Málaga",
+                            "Valor": 615,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2018,
+                            "Periodo": "Año",
+                            "Parametro": "Melilla",
+                            "Valor": 550,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2018,
+                            "Periodo": "Año",
+                            "Parametro": "Ourense",
+                            "Valor": 384,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2018,
+                            "Periodo": "Año",
+                            "Parametro": "Palencia",
+                            "Valor": 403,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2018,
+                            "Periodo": "Año",
+                            "Parametro": "Pontevedra",
+                            "Valor": 439,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2018,
+                            "Periodo": "Año",
+                            "Parametro": "Salamanca",
+                            "Valor": 463,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2018,
+                            "Periodo": "Año",
+                            "Parametro": "Santa Cruz de Tenerife",
+                            "Valor": 484,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2018,
+                            "Periodo": "Año",
+                            "Parametro": "Segovia",
+                            "Valor": 491,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2018,
+                            "Periodo": "Año",
+                            "Parametro": "Sevilla",
+                            "Valor": 456,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2018,
+                            "Periodo": "Año",
+                            "Parametro": "Soria",
+                            "Valor": 409,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2018,
+                            "Periodo": "Año",
+                            "Parametro": "Tarragona",
+                            "Valor": 459,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2018,
+                            "Periodo": "Año",
+                            "Parametro": "Teruel",
+                            "Valor": 376,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2018,
+                            "Periodo": "Año",
+                            "Parametro": "Valencia",
+                            "Valor": 556,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2018,
+                            "Periodo": "Año",
+                            "Parametro": "Valladolid",
+                            "Valor": 459,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2018,
+                            "Periodo": "Año",
+                            "Parametro": "Zaragoza",
+                            "Valor": 467,
+                            "Estado": null,
+                            "Notas": null
+                        }
+                    ]
+                }
+            ]
+        }
+    }
+}
